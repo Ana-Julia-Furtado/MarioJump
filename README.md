@@ -29,4 +29,4 @@ pular e evitar os canos para não perder o jogo.
 
 ## 👩‍💻 Acesso
 
-[Acesse o Jogo Online]([https://eh455ewsyc8spgrzbcmkym.streamlit.app/](https://ana-julia-furtado.github.io/MarioJump])
+[Acesse o Jogo Online](https://ana-julia-furtado.github.io/MarioJump)
