@@ -28,24 +28,12 @@ pular e evitar os canos para não perder o jogo.
 -   Detecção de colisão entre o Mario e os canos.
 -   Tela de **Game Over** quando o jogador perde.
 
-## 🖼️ Capturas de Tela
-
-*(adicione aqui imagens do jogo rodando, se desejar)*
-
 ## 🛠️ Tecnologias Utilizadas
 
 -   **HTML5** → Estrutura da página e elementos do jogo.\
 -   **CSS3** → Estilização, animações e responsividade.\
 -   **JavaScript (ES6)** → Lógica do jogo, detecção de colisão e
     interatividade.
-
-## 📌 Possíveis Melhorias
-
--   Adicionar sistema de pontuação.\
--   Inserir sons de pulo e colisão.\
--   Criar níveis de dificuldade progressivos.\
--   Tornar o jogo compatível com dispositivos móveis (toque na tela para
-    pular).
 
 ## 👩‍💻 Autor(a)
 
