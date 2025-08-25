@@ -4,14 +4,6 @@ Um jogo simples no estilo *infinite runner* inspirado no Mario,
 desenvolvido com **HTML, CSS e JavaScript**. O objetivo é fazer o Mario
 pular e evitar os canos para não perder o jogo.
 
-## 📂 Estrutura do Projeto
-
-    .
-    ├── index.html      # Estrutura principal do jogo
-    ├── style.css       # Estilos e animações do jogo
-    ├── script.js       # Lógica do jogo (movimentos, colisões, game over)
-    └── images/         # Imagens do Mario, canos e nuvens
-
 ## 🚀 Como Jogar
 
 1.  Abra o arquivo **index.html** em um navegador.
@@ -37,4 +29,4 @@ pular e evitar os canos para não perder o jogo.
 
 ## 👩‍💻 Acesso
 
-[Acesse o Jogo Online]([https://eh455ewsyc8spgrzbcmkym.streamlit.app/](https://ana-julia-furtado.github.io/MarioJump))
+[Acesse o Jogo Online]([https://eh455ewsyc8spgrzbcmkym.streamlit.app/](https://ana-julia-furtado.github.io/MarioJump])
