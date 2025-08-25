@@ -35,7 +35,6 @@ pular e evitar os canos para não perder o jogo.
 -   **JavaScript (ES6)** → Lógica do jogo, detecção de colisão e
     interatividade.
 
-## 👩‍💻 Autor(a)
+## 👩‍💻 Acesso
 
-Projeto desenvolvido para fins de estudo e prática em desenvolvimento
-web.
+[Acesse o Jogo Online]([https://eh455ewsyc8spgrzbcmkym.streamlit.app/](https://ana-julia-furtado.github.io/MarioJump))
